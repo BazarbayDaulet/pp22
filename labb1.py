@@ -5,7 +5,14 @@ print("Hello world")
 
 if 5 > 2:
     print("YES")
-    
+
+
+
+
+
+
+
+
     
 #comments
 1
@@ -19,6 +26,9 @@ if 5 > 2:
 """This is a comment
 written in 
 more than just one line"""
+
+
+
 
 
 
@@ -55,6 +65,8 @@ def myfunc():
   global x
   x = "fantastic"
   
+
+
 
 
 
@@ -105,6 +117,11 @@ bool
 
 8
 
+
+
+
+
+
 #numbers
 1
 x = 5
@@ -117,6 +134,11 @@ x = int(x)
 3
 x = 5
 x = complex(x)
+
+
+
+
+
 
 
 #strings
